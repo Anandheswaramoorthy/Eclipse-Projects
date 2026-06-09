@@ -1,4 +1,4 @@
-package BankExceptionHandling.java;
+package com.Bank.ExceptionHandling;
 import java.util.Scanner;
 
 	public class Atm

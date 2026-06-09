@@ -1,4 +1,4 @@
-package BankExceptionHandling.java;
+package com.Bank.ExceptionHandling;
 
 public class Bank {
 	
