@@ -31,5 +31,5 @@ public class AddingString {
 		
 		 sc.close();
 	}
-  
+ 
 }
